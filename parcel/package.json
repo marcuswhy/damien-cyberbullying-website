@@ -4,7 +4,7 @@
   "description": "A website to advocate against cyberbullying.",
   "author": "Damien Au",
   "license": "MIT",
-  "source": "src/pages/index.html",
+  "source": "public/pages/index.html",
   "scripts": {
     "dev": "parcel",
     "start": "parcel serve",
