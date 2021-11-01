@@ -1,0 +1,25 @@
+.large {
+  font-size: 7vh;
+}
+
+a {
+  color: lightskyblue;
+  line-height: 1.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.container {
+  margin-left: 60vh;
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  line-height: 0;
+}

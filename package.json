@@ -1,0 +1,20 @@
+{
+  "name": "cyberbullying-website",
+  "version": "1.0.0",
+  "description": "A website to advocate against cyberbullying.",
+  "author": "Damien Au",
+  "license": "MIT",
+  "source": "src/pages/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "start": "parcel serve",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@types/typed.js": "^2.0.9",
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  }
+}
