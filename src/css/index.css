@@ -1,3 +1,9 @@
+body {
+  background-image: url("../../public/img/1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .large {
   font-size: 7vh;
 }
@@ -14,12 +20,11 @@ a:hover {
 }
 
 .container {
-  margin-left: 60vh;
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: left;
+  align-items: center;
   line-height: 0;
 }
