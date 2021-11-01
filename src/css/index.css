@@ -4,21 +4,6 @@ body {
   background-size: cover;
 }
 
-.large {
-  font-size: 7vh;
-}
-
-a {
-  color: lightskyblue;
-  line-height: 1.5rem;
-  text-decoration: none;
-}
-
-a:hover {
-  color: white;
-  text-decoration: underline;
-}
-
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
